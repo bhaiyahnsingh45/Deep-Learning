@@ -26,7 +26,7 @@ Each topic has:
 ### Optimization & Regularization
 | # | Topic | Notes | Notebook | Status |
 |---|-------|-------|----------|--------|
-| 06 | Advanced Optimizers (Momentum, RMSProp, Adam) | — | — | Upcoming |
+| 02 | Advanced Optimizers (Momentum, NAG, AdaGrad, RMSProp, Adam) | [Overview](02-Advanced-Optimizers/00_overview_comparison.md) · [Momentum](02-Advanced-Optimizers/01_momentum_sgd.md) · [NAG](02-Advanced-Optimizers/02_nag.md) · [AdaGrad](02-Advanced-Optimizers/03_adagrad.md) · [RMSProp](02-Advanced-Optimizers/04_rmsprop.md) · [Adam](02-Advanced-Optimizers/05_adam.md) | — | Done |
 | 07 | Regularization (L1, L2, Dropout) | — | — | Upcoming |
 | 08 | Batch Normalization | — | — | Upcoming |
 
@@ -53,6 +53,7 @@ Each topic has:
 | Date | Topic Covered |
 |------|--------------|
 | 2026-04-26 | Gradient Descent — Batch, Stochastic (SGD), Mini-Batch |
+| 2026-04-26 | Advanced Optimizers — Momentum SGD, NAG, AdaGrad, RMSProp, Adam |
 
 ---
 
